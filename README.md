@@ -1,4 +1,3 @@
-# Predicting the Dyssynchrony with Deep Learning
 # NodeSchool
 
 ## Goal
