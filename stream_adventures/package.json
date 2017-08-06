@@ -1,0 +1,22 @@
+{
+  "name": "stream_adventures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "beep_boop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tommy Truong",
+  "license": "ISC",
+  "dependencies": {
+    "concat-stream": "^1.6.0",
+    "duplexer2": "^0.1.4",
+    "request": "^2.81.0",
+    "split": "^1.0.0",
+    "stream-combiner": "^0.2.2",
+    "tar": "^3.1.9",
+    "through2": "^2.0.3",
+    "trumpet": "^1.7.2",
+    "websocket-stream": "^5.0.0"
+  }
+}
